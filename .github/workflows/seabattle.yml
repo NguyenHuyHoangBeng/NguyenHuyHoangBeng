@@ -24,7 +24,6 @@ jobs:
     env:
       REPO: ${{ github.repository }}
       GH_TOKEN: ${{ github.token }}
-      SEABATTLE_OUT: ${{ runner.temp }}/seabattle_replies.json
     steps:
       - uses: actions/checkout@v4
         with:
