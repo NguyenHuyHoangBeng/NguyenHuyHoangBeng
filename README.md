@@ -36,6 +36,7 @@ I build mobile games in **Unity**, and I build them **AI-first**: I direct a tea
 - 🤖 **How I work:** AI agents for code, tests and tools; GPT for art; ElevenLabs for sound; Blender for low-poly 3D
 - 🧩 **Love making:** puzzle mechanics, game feel, VFX, low-poly 3D art
 - 📱 **Ships to:** Android (Google Play) and iOS
+- 📫 **Find me on:** [Facebook](https://www.facebook.com/home.come.908/) · [LinkedIn](https://www.linkedin.com/in/ho%C3%A0ng-nguy%E1%BB%85n-14ab7126b)
 
 ---
 
