@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/Beng_Studio-0EA5B7?style=for-the-badge&logo=gamedeveloper&logoColor=white" alt="Beng Studio" />
 </p>
 
+<p align="center">
+  <a href="https://www.facebook.com/home.come.908/"><img src="https://img.shields.io/badge/Facebook-Say_hi!-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
+
 ---
 
 ## 🎮 About me
@@ -152,6 +156,16 @@ I build mobile games in **Unity**, and I build them **AI-first**: I direct a tea
   <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
   <img src="https://img.shields.io/badge/Seedance-325AB4?style=for-the-badge&logo=bytedance&logoColor=white" alt="Seedance" />
 </p>
+
+---
+
+## 📫 Let's connect
+
+<p align="center">
+  <a href="https://www.facebook.com/home.come.908/"><img src="https://img.shields.io/badge/Facebook-Nguyễn_Huy_Hoàng-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook: Nguyễn Huy Hoàng" /></a>
+</p>
+
+<p align="center">Want to talk games, Unity or AI agents? Message me on Facebook.<br /><sub>🇻🇳 Muốn nói chuyện về game, Unity hay AI agent thì nhắn mình qua Facebook nhé.</sub></p>
 
 ---
 
