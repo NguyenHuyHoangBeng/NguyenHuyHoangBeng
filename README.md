@@ -20,6 +20,7 @@
 </p>
 
 <p align="center">
+  <a href="https://play.google.com/store/apps/dev?id=8287384967268227703"><img src="https://img.shields.io/badge/Google_Play-BengStudio-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="BengStudio on Google Play" /></a>
   <a href="https://www.facebook.com/home.come.908/"><img src="https://img.shields.io/badge/Facebook-Say_hi!-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.linkedin.com/in/ho%C3%A0ng-nguy%E1%BB%85n-14ab7126b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,CiAgPHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiPgogICAgCiAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwgMCkiPgogICAgICAgICAgPHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgdmlld0JveD0iMCAwIDI1NiAyNTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiByeD0iNjAiIGZpbGw9IiMwQTY2QzIiLz4KPHBhdGggZD0iTTE4NC43MTUgMjE3LjY4NUgyMTMuOTg1QzIxNi4xOTQgMjE3LjY4NSAyMTcuOTg1IDIxNS44OTUgMjE3Ljk4NSAyMTMuNjg2TDIxOCAxNTEuODQ0QzIxOCAxMTkuNTIxIDIxMS4wMzUgOTQuNjc1NSAxNzMuMjYyIDk0LjY3NTVDMTU4LjkwMyA5NC4xNDIzIDE0NS4zNjIgMTAxLjU0NCAxMzguMDU1IDExMy45MDRDMTM3Ljk5NyAxMTQuMDAyIDEzNy44OTMgMTE0LjA2MiAxMzcuNzc5IDExNC4wNjJDMTM3LjYwMyAxMTQuMDYyIDEzNy40NiAxMTMuOTE5IDEzNy40NiAxMTMuNzQzVjEwMS42NkMxMzcuNDYgOTkuNDUxMSAxMzUuNjcgOTcuNjYwMiAxMzMuNDYgOTcuNjYwMkgxMDUuNjgzQzEwMy40NzQgOTcuNjYwMiAxMDEuNjgzIDk5LjQ1MTEgMTAxLjY4MyAxMDEuNjZWMjEzLjY4QzEwMS42ODMgMjE1Ljg5IDEwMy40NzQgMjE3LjY4IDEwNS42ODMgMjE3LjY4SDEzNC45NTFDMTM3LjE2IDIxNy42OCAxMzguOTUxIDIxNS44OSAxMzguOTUxIDIxMy42OFYxNTguMzA3QzEzOC45NTEgMTQyLjY1IDE0MS45MjEgMTI3LjQ4NyAxNjEuMzMyIDEyNy40ODdDMTgwLjQ2NyAxMjcuNDg3IDE4MC43MTUgMTQ1LjQwMyAxODAuNzE1IDE1OS4zMjFWMjEzLjY4NUMxODAuNzE1IDIxNS44OTQgMTgyLjUwNiAyMTcuNjg1IDE4NC43MTUgMjE3LjY4NVoiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0zOCA1OS42Mjc1QzM4IDcxLjQ5MjEgNDcuNzY3NSA4MS4yNTM5IDU5LjYzMjEgODEuMjUzOUM3MS40OTQ0IDgxLjI1MjggODEuMjU1MSA3MS40ODUzIDgxLjI1NTEgNTkuNjIzQzgxLjI1MjggNDcuNzYwNyA3MS40OTEgMzggNTkuNjI3NSAzOEM0Ny43NjMgMzggMzggNDcuNzYzIDM4IDU5LjYyNzVaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNNDQuOTU4OCAyMTcuNjg1SDc0LjI2NTlDNzYuNDc1MSAyMTcuNjg1IDc4LjI2NTkgMjE1Ljg5NCA3OC4yNjU5IDIxMy42ODVWMTAxLjY2Qzc4LjI2NTkgOTkuNDUxMSA3Ni40NzUxIDk3LjY2MDIgNzQuMjY1OSA5Ny42NjAySDQ0Ljk1ODhDNDIuNzQ5NyA5Ny42NjAyIDQwLjk1ODggOTkuNDUxMSA0MC45NTg4IDEwMS42NlYyMTMuNjg1QzQwLjk1ODggMjE1Ljg5NCA0Mi43NDk3IDIxNy42ODUgNDQuOTU4OCAyMTcuNjg1WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+CgogICAgICAgIDwvZz4KICAgICAgICAKICA8L3N2Zz4KICA=" alt="LinkedIn" /></a>
 </p>
@@ -35,7 +36,8 @@ I build mobile games in **Unity**, and I build them **AI-first**: I direct a tea
 - 🔭 **Now building:** Sea Survival, a naval roguelite with huge boss fights
 - 🤖 **How I work:** AI agents for code, tests and tools; GPT for art; ElevenLabs for sound; Blender for low-poly 3D
 - 🧩 **Love making:** puzzle mechanics, game feel, VFX, low-poly 3D art
-- 📱 **Ships to:** Android (Google Play) and iOS
+- 📱 **Ships to:** Android ([Google Play](https://play.google.com/store/apps/dev?id=8287384967268227703)) and iOS
+- 🛒 **My store:** [BengStudio on Google Play](https://play.google.com/store/apps/dev?id=8287384967268227703), growing: first apps are live, games are on the way 🚧
 - 📫 **Find me on:** [Facebook](https://www.facebook.com/home.come.908/) · [LinkedIn](https://www.linkedin.com/in/ho%C3%A0ng-nguy%E1%BB%85n-14ab7126b)
 
 ---
@@ -89,6 +91,14 @@ I build mobile games in **Unity**, and I build them **AI-first**: I direct a tea
 ---
 
 ## 🕹️ Games I've built
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/dev?id=8287384967268227703"><img src="https://img.shields.io/badge/Google_Play-BengStudio_·_growing_🚧-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="BengStudio on Google Play" /></a>
+</p>
+
+> 🚧 **The BengStudio store on Google Play is growing.** The first apps are live, and the games below are on their way to the store. [Follow the store](https://play.google.com/store/apps/dev?id=8287384967268227703) to catch every launch!
+>
+> 🇻🇳 Store **BengStudio** trên Google Play đang phát triển: đã có những app đầu tiên, các game bên dưới đang trên đường lên kệ. [Theo dõi store](https://play.google.com/store/apps/dev?id=8287384967268227703) để chơi sớm nhé!
 
 ### 🏴‍☠️ Sea Survival <sub>(working title: Sea Raiders)</sub>
 
@@ -166,6 +176,7 @@ I build mobile games in **Unity**, and I build them **AI-first**: I direct a tea
 <p align="center">
   <a href="https://www.facebook.com/home.come.908/"><img src="https://img.shields.io/badge/Facebook-Nguyễn_Huy_Hoàng-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook: Nguyễn Huy Hoàng" /></a>
   <a href="https://www.linkedin.com/in/ho%C3%A0ng-nguy%E1%BB%85n-14ab7126b"><img src="https://img.shields.io/badge/LinkedIn-Nguyễn_Huy_Hoàng-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,CiAgPHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiPgogICAgCiAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwgMCkiPgogICAgICAgICAgPHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgdmlld0JveD0iMCAwIDI1NiAyNTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiByeD0iNjAiIGZpbGw9IiMwQTY2QzIiLz4KPHBhdGggZD0iTTE4NC43MTUgMjE3LjY4NUgyMTMuOTg1QzIxNi4xOTQgMjE3LjY4NSAyMTcuOTg1IDIxNS44OTUgMjE3Ljk4NSAyMTMuNjg2TDIxOCAxNTEuODQ0QzIxOCAxMTkuNTIxIDIxMS4wMzUgOTQuNjc1NSAxNzMuMjYyIDk0LjY3NTVDMTU4LjkwMyA5NC4xNDIzIDE0NS4zNjIgMTAxLjU0NCAxMzguMDU1IDExMy45MDRDMTM3Ljk5NyAxMTQuMDAyIDEzNy44OTMgMTE0LjA2MiAxMzcuNzc5IDExNC4wNjJDMTM3LjYwMyAxMTQuMDYyIDEzNy40NiAxMTMuOTE5IDEzNy40NiAxMTMuNzQzVjEwMS42NkMxMzcuNDYgOTkuNDUxMSAxMzUuNjcgOTcuNjYwMiAxMzMuNDYgOTcuNjYwMkgxMDUuNjgzQzEwMy40NzQgOTcuNjYwMiAxMDEuNjgzIDk5LjQ1MTEgMTAxLjY4MyAxMDEuNjZWMjEzLjY4QzEwMS42ODMgMjE1Ljg5IDEwMy40NzQgMjE3LjY4IDEwNS42ODMgMjE3LjY4SDEzNC45NTFDMTM3LjE2IDIxNy42OCAxMzguOTUxIDIxNS44OSAxMzguOTUxIDIxMy42OFYxNTguMzA3QzEzOC45NTEgMTQyLjY1IDE0MS45MjEgMTI3LjQ4NyAxNjEuMzMyIDEyNy40ODdDMTgwLjQ2NyAxMjcuNDg3IDE4MC43MTUgMTQ1LjQwMyAxODAuNzE1IDE1OS4zMjFWMjEzLjY4NUMxODAuNzE1IDIxNS44OTQgMTgyLjUwNiAyMTcuNjg1IDE4NC43MTUgMjE3LjY4NVoiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0zOCA1OS42Mjc1QzM4IDcxLjQ5MjEgNDcuNzY3NSA4MS4yNTM5IDU5LjYzMjEgODEuMjUzOUM3MS40OTQ0IDgxLjI1MjggODEuMjU1MSA3MS40ODUzIDgxLjI1NTEgNTkuNjIzQzgxLjI1MjggNDcuNzYwNyA3MS40OTEgMzggNTkuNjI3NSAzOEM0Ny43NjMgMzggMzggNDcuNzYzIDM4IDU5LjYyNzVaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNNDQuOTU4OCAyMTcuNjg1SDc0LjI2NTlDNzYuNDc1MSAyMTcuNjg1IDc4LjI2NTkgMjE1Ljg5NCA3OC4yNjU5IDIxMy42ODVWMTAxLjY2Qzc4LjI2NTkgOTkuNDUxMSA3Ni40NzUxIDk3LjY2MDIgNzQuMjY1OSA5Ny42NjAySDQ0Ljk1ODhDNDIuNzQ5NyA5Ny42NjAyIDQwLjk1ODggOTkuNDUxMSA0MC45NTg4IDEwMS42NlYyMTMuNjg1QzQwLjk1ODggMjE1Ljg5NCA0Mi43NDk3IDIxNy42ODUgNDQuOTU4OCAyMTcuNjg1WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+CgogICAgICAgIDwvZz4KICAgICAgICAKICA8L3N2Zz4KICA=" alt="LinkedIn: Nguyễn Huy Hoàng" /></a>
+  <a href="https://play.google.com/store/apps/dev?id=8287384967268227703"><img src="https://img.shields.io/badge/Google_Play-BengStudio-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="BengStudio on Google Play" /></a>
 </p>
 
 <p align="center">Want to talk games, Unity or AI agents? Message me on Facebook or connect on LinkedIn.<br /><sub>🇻🇳 Muốn nói chuyện về game, Unity hay AI agent thì nhắn mình qua Facebook hoặc kết nối LinkedIn nhé.</sub></p>
